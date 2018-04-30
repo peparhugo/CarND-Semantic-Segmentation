@@ -1,6 +1,18 @@
 # Semantic Segmentation
+
+[//]: # (Image References)
+[image1]: ./results/um_000052.png
+[image2]: ./results/um_000062.png
+[image3]: ./results/uu_000085.png
+
 ### Introduction
 In this project, you'll label the pixels of a road in images using a Fully Convolutional Network (FCN).
+
+### Model Sample Results
+Below are highlighted road pixels from the model:
+![alt text][image1]
+![alt text][image2]
+![alt text][image3]
 
 ### Setup
 ##### Frameworks and Packages
@@ -31,6 +43,3 @@ python main.py
  - `main.py`
  - `project_tests.py`
  - Newest inference images from `runs` folder
- 
- ## How to write a README
-A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
